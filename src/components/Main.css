@@ -1,0 +1,17 @@
+.mainContainer {
+  flex: 10;
+  height: 100vh;
+}
+.contant {
+  display: flex;
+}
+.lunch {
+  margin-top: 100px;
+}
+.discription {
+  margin-top: 100px;
+  margin-left: 500px;
+}
+.showCard {
+  margin-top: 200px;
+}
